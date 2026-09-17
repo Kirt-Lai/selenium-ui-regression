@@ -1,0 +1,10 @@
+pytest
+selenium
+loguru
+allure-pytest
+pytest-rerunfailures
+requests
+python-dotenv
+python-telegram-bot
+google-generativeai
+Pillow
